@@ -3,7 +3,7 @@
 # using [near] real-time market data
 # =============================================================================
 #
-# Authors: Rhys Manners, Kate Schneider Lecy, James Warner, Eric Matsijo,
+# Authors: Rhys Manners, Kate Schneider Lecy, James Warner, Eric Matsiko,
 #          Hilda Vasanthakaalame, Gilberthe Benimana, David J. Spielman
 #
 # Published: Food Policy, 141 (2026) 103085
